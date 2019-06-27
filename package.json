@@ -1,0 +1,24 @@
+{
+  "name": "acadiabot",
+  "version": "1.0.5",
+  "description": "A private Discord bot for Acadia Community.",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "ms": "^2.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bleakfiber/AcadiaBot-V1.0.5.git"
+  },
+  "author": "Bleakfiber",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bleakfiber/AcadiaBot-V1.0.5/issues"
+  },
+  "homepage": "https://github.com/Bleakfiber/AcadiaBot-V1.0.5#readme"
+}
